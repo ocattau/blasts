@@ -1,1 +1,1 @@
-# blasts
+# location for depositing successful blasts
